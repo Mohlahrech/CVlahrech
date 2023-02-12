@@ -57,7 +57,7 @@ with col2:
         file_name=resume_file.name,
         mime="application/octet-stream",
     )
-
+st.markdown("<style>body { background-color: #FFFFFF; }</style>", unsafe_allow_html=True,)
 st.write("📫", EMAIL)
 
 #-----SOCIAL_LINKS----------
