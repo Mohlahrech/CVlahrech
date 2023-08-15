@@ -17,7 +17,7 @@ PAGE_TITLE = "CV | LAHRECH Mohamed"
 PAGE_ICON = ":flag-dz:"
 NAME = "Mohamed LAHRECH"
 DESCRIPTION = """
-IT Support specialist , supporting entreprises....
+IT Support specialist ,Odoo developer supporting entreprises....
 """
 
 EMAIL = "mohamed.lahrech15@gmail.com"
@@ -28,7 +28,7 @@ SOCIAL_MEDIA = {
     "Youtube" : "https://www.youtube.com/channel/UC7qe94o1-qnopKoB8iAs2Rw",
 }
 Projects = {
-             "🏆 Projet de déploiement de l'Erp Synergie by Cosoft - Société nationale des travaux publics": "http://www.sntp.dz/",
+             "🏆 Projet de déploiement de l'Erp Synergie - Société nationale des travaux publics": "http://www.sntp.dz/",
              "🏆 Projet de digitalisation de le gestion documentaire - Société nationale des travaux publics": "http://www.sntp.dz/",
              "🏆 Projet d'optimisation de l'ERP ODOO - Intellisolutions": "http://intellisolutions-dz.com/"
 
@@ -71,9 +71,10 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
 st.write("#")
 st.subheader("Experiences et capacités")
 st.write("""
-- ✔ 3 ans d'experience dans la gestion des systemes d'information
+- ✔ 4 ans d'experience dans la gestion des systemes d'information
 - ✔ Expert en gestion de projets
 - ✔ Expert dans les systemes informatiques
+- ✔ Plus de 1 an de développement sur Odoo
 """)
 
 #---SKILLS----
@@ -83,7 +84,7 @@ st.write(
     """
 - 📊 Administration réseau
 - 🗄️ Sytemes d'exploitations et SGBD: Windows, windows Server, SQL Server
-- 💻 Dévelopmement Python junior
+- 💻 Dévelopmement Python / Xml
 - 📚 Maitrise des systemes de sécurité 
 """
 )
