@@ -74,7 +74,7 @@ st.write("""
 - ✔ 4 ans d'experience dans la gestion des systemes d'information
 - ✔ Expert en gestion de projets
 - ✔ Expert dans les systemes informatiques
-- ✔ Plus de 1 an de développement sur Odoo
+- ✔ Plus d'une année de développement sur Odoo
 """)
 
 #---SKILLS----
