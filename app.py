@@ -1,7 +1,8 @@
 from pathlib import Path
-
 import streamlit as st
 from PIL import Image
+
+
 
 
 #---path settings----------
@@ -132,13 +133,3 @@ st.subheader("Projects & Accomplishments")
 st.write("---")
 for project, link in Projects.items():
     st.write(f"[{project}]({link})")
-
-
-
-
-
-
-
-
-
-
